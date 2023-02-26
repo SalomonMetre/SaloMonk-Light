@@ -6,7 +6,7 @@
   "publisher": "SalomonMetre",
   "repository": {
     "type":"git",
-    "url":""
+    "url":"https://github.com/SalomonMetre/SaloMonk-Light"
   },
   "keywords": [
     "light",
