@@ -1,0 +1,32 @@
+{
+  "name": "salomonk-light",
+  "displayName": "SaloMonK Light",
+  "description": "A light theme that just works (for me) !",
+  "version": "1.0.0",
+  "publisher": "SalomonMetre",
+  "repository": {
+    "type":"git",
+    "url":""
+  },
+  "keywords": [
+    "light",
+    "multiple colors",
+    "simple",
+    "beautiful"
+  ],
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "SaloMonK Light",
+        "uiTheme": "vs",
+        "path": "./themes/SaloMonK Light-color-theme.json"
+      }
+    ]
+  }
+}
